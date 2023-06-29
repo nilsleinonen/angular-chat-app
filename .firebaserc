@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "first-sucuk-app": {
+      "hosting": {
+        "getstream-chat-angular-example": [
+          "first-sucuk-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "first-sucuk-app"
+  }
+}
